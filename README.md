@@ -24,7 +24,7 @@ With codedamn, we aim to create a platform that could:
 
 **YOU** can contribute a lot to codedamn! Let's see some sections where you could help the community grow as an individual.
 
-## Course Labs
+## 🎓 Course Labs
 
 As we build and develop codedamn, more and more courses would be added. As of now, we have the following course labs on the platform.
 
@@ -40,7 +40,7 @@ If you want to create a course lab on codedamn, please reach out to us [here](ht
 
 -   [ ] C
 
-## Main platform features
+## 🚀 Main platform features
 
 This section contains an overview of what codedamn offers, and will offer in the future.
 
@@ -56,7 +56,7 @@ This section contains an overview of what codedamn offers, and will offer in the
 
 To add a feature, please open an [issue here](https://github.com/codedamn/codedamn/issues)
 
-## Hall of Fame 🏆
+## 🏆 Hall of Fame
 
 At codedamn, we take security of the product very seriously. If you find any security vulnerability, we would be happy to list your details on the Hall of Fame section of codedamn. As of now, we do not offer monetary rewards or swags for security vulnerabilities, but that should change soon.
 
