@@ -1,4 +1,16 @@
-# ⚡️ Welcome to `codedamn`
+<div align="center">
+    <a href="https://codedamn.com/">
+        <img src="./logo.png" alt="codedamn" width="120" />
+    </a>
+    <br /><br />
+    <h1><code>Welcome to codedamn</code></h1>
+Official repository for codedamn platform decisions and changes
+
+![GitHub stars](https://img.shields.io/github/stars/codedamn/codedamn?style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/codedamncom?label=Follow%20codedamn&style=social)
+![GitHub watchers](https://img.shields.io/github/watchers/codedamn/codedamn?label=Watch&style=social)
+
+</div>
 
 codedamn is a platform for developers, made by developers. Learning things in 21st century should be practical and interesting, and technology blended with eduction opens that dimension.
 
