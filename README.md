@@ -4,7 +4,7 @@
     </a>
     <br /><br />
     <h1><code>Welcome to codedamn</code></h1>
-Official repository for codedamn platform decisions and changes
+<h4>Official repository for codedamn platform decisions and changes.</h4><br />
 
 ![GitHub stars](https://img.shields.io/github/stars/codedamn/codedamn?style=social)
 ![Twitter Follow](https://img.shields.io/twitter/follow/codedamncom?label=Follow%20codedamn&style=social)
