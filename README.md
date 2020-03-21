@@ -1,4 +1,4 @@
-# ⚡️ `Welcome to codedamn`
+# ⚡️ Welcome to `codedamn`
 
 codedamn is a platform for developers, made by developers. Learning things in 21st century should be practical and interesting, and technology blended with eduction opens that dimension.
 
