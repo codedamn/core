@@ -1,8 +1,4 @@
 <div align="center">
-    <a href="https://codedamn.com/">
-        <img src="./logo.png" alt="codedamn" width="120" />
-    </a>
-    <br /><br />
     <h1><code>codedamn core repository</code></h1>
 <h4>We use this to track any issues and features requested in public. Star this repo for support!</h4>
 
