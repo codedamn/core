@@ -3,8 +3,8 @@
         <img src="./logo.png" alt="codedamn" width="120" />
     </a>
     <br /><br />
-    <h1><code>Welcome to codedamn</code></h1>
-<h4>Official repository for codedamn platform decisions and changes.</h4>
+    <h1><code>codedamn core repository</code></h1>
+<h4>We use this to track any issues and features requested in public. Star this repo for support!</h4>
 
 ![GitHub stars](https://img.shields.io/github/stars/codedamn/codedamn?style=social)
 ![Twitter Follow](https://img.shields.io/twitter/follow/codedamncom?label=Follow%20codedamn&style=social)
@@ -12,56 +12,29 @@
 
 </div>
 
-codedamn is a platform for developers, made by developers. Learning things in 21st century should be practical and interesting, and technology blended with eduction opens that dimension.
+With  <a href="https://codedamn.com/">codedamn</a>, we are creating a learning platform that is:
 
-With codedamn, we aim to create a platform that could:
+👉 Interactive and fun to learn.
 
-👉 Be used by anyone to get started with programming.
+👉 Blends video based learning with practical projects along the way.
 
-👉 Create a community experience to help others who are getting started.
+👉 Learn industry relevant skills end to end (fullstack web development, blockchain developer, etc.)
 
-👉 Monitor your own progress, learn and grow!
+**You** can contribute a lot to codedamn! If you have any feature request, bug report or anything where you see a potential improvement, [let us know](https://github.com/codedamn/core/issues)
 
-**YOU** can contribute a lot to codedamn! Let's see some sections where you could help the community grow as an individual.
 
-## 🎓 Course Labs
+## 🏆 Responsible vulnerability disclosure
 
-As we build and develop codedamn, more and more courses would be added. As of now, we have the following course labs on the platform.
+At codedamn, we take security of the product very seriously. If you find any security vulnerability, we would be happy to list your details on the Hall of Fame section of codedamn. If you're India based, we also offer swags as a reward.
 
-### Available Now
+In any circumstances, DO NOT perform any action which might lead to any other users' data compromise, data leak while pentesting the platform. The final decision will be made by our team to determine the scope of the attack. The following attacks are out of scope:
 
--   [x] [Node.js](https://codedamn.com/practice/nodejs)
+- Social engineering
+- Anything requiring physical access to user account
+- Only the following domains are under responsible vulnerability disclosure program: codedamn.com, creator.codedamn.com, mentor.codedamn.com
 
-If you want a course lab on codedamn, please open an [issue here](https://github.com/codedamn/codedamn/issues)
+[Report the vulnerability using this link](https://codedamn.com/contact)
 
-If you want to create a course lab on codedamn, please reach out to us [here](https://codedamn.com/feedback)
+### Current HoF:
 
-### Coming Soon
-
--   [ ] C
-
-## 🚀 Main platform features
-
-This section contains an overview of what codedamn offers, and will offer in the future.
-
-### Done
-
--   [x] Labs for executing code on cloud, using browser.
-
-### Coming Soon
-
--   [ ] Support for frontend languages/networking support in cloud (for creating custom websites)
--   [ ] Custom terminal shell on web
--   [ ] Playground for quick testing
-
-To add a feature, please open an [issue here](https://github.com/codedamn/codedamn/issues)
-
-## 🏆 Hall of Fame
-
-At codedamn, we take security of the product very seriously. If you find any security vulnerability, we would be happy to list your details on the Hall of Fame section of codedamn. As of now, we do not offer monetary rewards or swags for security vulnerabilities, but that should change soon.
-
-In any circumstances, DO NOT perform any action which might lead to any other users' data compromise, data leak while pentesting the platform. Social engineering attacks are out of scope.
-
-Current HoF:
-
--   No one yet. Be the first one! [Report it here](https://codedamn.com/feedback)
+-   No one yet.
