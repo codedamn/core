@@ -33,4 +33,4 @@ In any circumstances, DO NOT perform any action which might lead to any other us
 
 ### Current HoF:
 
--   No one yet.
+- [Tharun Raj](https://twitter.com/TharunRaj64)
