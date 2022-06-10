@@ -31,7 +31,7 @@ In any circumstances, DO NOT perform any action which might lead to any other us
 
 [Report the vulnerability using this link](https://codedamn.com/contact)
 
-### Current HoF:
+#### October 2021
 
 - [Tharun Raj](https://twitter.com/TharunRaj64)
 
