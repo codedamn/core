@@ -34,3 +34,8 @@ In any circumstances, DO NOT perform any action which might lead to any other us
 ### Current HoF:
 
 - [Tharun Raj](https://twitter.com/TharunRaj64)
+
+#### June 2022
+
+- [Tharun Raj](https://twitter.com/TharunRaj64)
+
