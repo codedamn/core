@@ -39,3 +39,6 @@ In any circumstances, DO NOT perform any action which might lead to any other us
 
 - [Tharun Raj](https://twitter.com/TharunRaj64)
 
+#### November 2022 
+
+- [Zack](https://github.com/X-Samurai)
