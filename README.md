@@ -26,7 +26,7 @@ In any circumstances, DO NOT perform any action which might lead to any other us
 
 -   Social engineering
 -   Anything requiring physical access to user account
--   Only the following domains are under responsible vulnerability disclosure program: codedamn.com, creator.codedamn.com, mentor.codedamn.com
+-   Only the following domains are under responsible vulnerability disclosure program: codedamn.com
 
 [Report the vulnerability using this link](https://codedamn.com/contact)
 
